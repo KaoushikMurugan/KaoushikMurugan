@@ -1,4 +1,4 @@
-### Hi there 👋
+### [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
 I'm a fourth year Computer Sciene and Engineering major at UC Davis, with an interest in Software Engineering and Game Development!
 
