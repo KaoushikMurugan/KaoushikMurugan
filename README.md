@@ -6,6 +6,6 @@ I'm a fourth year Computer Sciene and Engineering major at UC Davis, with an int
 - 🔭 Researching on using Deep Reinforcement Learning techniques to solve Rubik's Cubes in a human like manner
 - 🌱 I’m learning PyTorch and Unity
 - 👯 I’m happy to collaborate on pretty much anything
-- 💬 Ask me about Computer Sciene, Physics, Games, Animation, and Puzzles!
+- 💬 Ask me about Computer Science, Physics, Games, Animation, and Puzzles!
 - 📫 How to reach me: (username)@(mail service from alphabet).com
 - ⚡ WCA_id="2013MURU01"
